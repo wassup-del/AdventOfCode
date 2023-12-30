@@ -1,0 +1,72 @@
+Banshee
+Will target only one player at a time. Has a distinctive wail on the Parabolic Microphone.
+orbs, fingerprints, d.o.t.s.
+Demon
+Can initiate hunts more often. Crucifix effectiveness is increased to 5m against one.
+freezing, fingerprints, writing
+Deogen
+Always knows where the player is during a hunt and moves very fast when going to their location. Moves very slowly when near its victim.
+spirit box, writing, d.o.t.s.
+Goryo
+Can only be seen interacting with d.o.t.s. through a camera when nobody is nearby. Tends to wander around less.
+emf 5, fingerprints, d.o.t.s.
+Hantu
+Lower temperatures allow the Hantu to move faster. Warmer areas slow the Hantu's movement.
+orbs, freezing, fingerprints
+Jinn
+Travels at faster speeds if its victim is far away. Cannot use its ability if the site's fuse box is off.
+emf 5, freezing, fingerprints
+Mare
+Has an increased chance to attack in the dark. Turning the lights on will reduce the chance of an attack.
+orbs, spirit box, writing
+Moroi
+Moves noticeably faster at low player sanity and can make players lose sanity quicker than usual while investigating. Smudge sticks blind the ghost for longer during hunts.
+spirit box, writing, freezing
+Myling
+Produces quieter sounds during a hunt. Produces paranormal sounds more frequently.
+emf 5, fingerprints, writing
+Obake
+May leave fingerprints that disappear quicker. Has a small chance of leaving six-fingered handprints.
+emf 5, orbs, fingerprints
+Oni
+Increased activity in general. More visible during hunts.
+emf 5, freezing, d.o.t.s.
+Onryo
+A flame extinguishing can cause an Onryo to attack. The presence of flames reduces the Onryo's ability to attack.
+orbs, spirit box, freezing
+Phantom
+Looking at a Phantom will lower the player's sanity considerably. Taking a photo of the Phantom will cause it to briefly disappear.
+spirit box, fingerprints, d.o.t.s.
+Poltergeist
+Capable of throwing multiple objects at once. Becomes powerless with no throwables nearby.
+spirit box, fingerprints, writing
+Raiju
+Moves faster near electrical devices. Disrupts electronic equipment from further away when it hunts.
+emf 5, orbs, d.o.t.s.
+Revenant
+Can travel significantly faster if a player is spotted during a hunt. Moves very slowly when not chasing a player.
+orbs, freezing, writing
+Shade
+Being shy makes it more difficult to locate and obtain evidence. Less likely to hunt if people are nearby.
+emf 5, freezing, writing
+Spirit
+None. Smudge sticks are more effective, preventing a hunt for longer.
+emf 5, spirit box, writing
+Thaye
+Entering the location makes it active, defensive and agile. Becomes slower and less active over time.
+orbs, writing, d.o.t.s.
+The Mimic
+Can mimic the abilities and traits of other ghosts. Will present Ghost orbs as a secondary evidence.
+spirit box, fingerprints, freezing
+The Twins
+Either Twin may start a hunt, though not at the same time. Will often interact with the environment at the same time.
+emf 5, spirit box, freezing
+Wraith
+Does not leave UV footprints after stepping in salt. Will become more active if it steps in salt.
+emf 5, spirit box, d.o.t.s.
+Yokai
+Talking near the Yokai will anger it, increasing the chance to attack. Can only hear voices close to it during a Hunt.
+orbs, spirit box, d.o.t.s.
+Yurei
+Has a stronger effect on sanity. Smudging the Yurei will reduce how often it wanders.
+orbs, freezing, d.o.t.s.
